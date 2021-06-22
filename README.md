@@ -71,7 +71,7 @@ Back과 front를 분리하지 않았고, 초반 설계를 같이 진행했다.
 
 ## ERD
 
-![Image Pasted at 2021-5-27 14-14](README.assets/Image Pasted at 2021-5-27 14-14.png)
+![erd](README.assets/erd.png)
 
 **User와 movie** 두 개의 모델을 중심으로 Comment, RatedMovie, LikedMovie 등을 1:N 또는 M:N으로 모델링했다. 
 
