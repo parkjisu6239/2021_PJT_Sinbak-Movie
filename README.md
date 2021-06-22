@@ -48,7 +48,7 @@ Back과 front를 분리하지 않았고, 초반 설계를 같이 진행했다.
 
 | 박지수                                                       | 신동윤                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://github.com/parkjisu6239"><img style="height: 170px" src="README.assets/42528189"></a> | <a href="https://github.com/Shin-dongyun"><img style="height: 170px" src="README.assets/77421871"></a> |
+| <a href="https://github.com/parkjisu6239"><img style="height: 170px" src="https://avatars.githubusercontent.com/u/42528189?v=4"></a> | <a href="https://github.com/Shin-dongyun"><img style="height: 170px" src="https://avatars.githubusercontent.com/u/77421871?v=4"></a> |
 | 영화 메인, 디테일 프론트 디자인<br />영화 추천<br />영화 검색 | 영화 커뮤니티 디자인<br />backend에서 model 수정<br />Modal  |
 
 <br/>
